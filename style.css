@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat;
+}
+
+html {
+    font-size: 20px;
+    
+}
+
+body {
+    background: #D7C0AE;
+    width: 100%;
+    overflow-x: hidden;
+
+}
+
+.header {
+    width: auto;
+    height: 20rem;
+    background: url(Misc/Front3.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    margin-bottom: 10rem;
+}
+
+.intro {
+  font-size: 3rem;
+  color:white;
+  padding: 8rem 50rem 0 22rem;
+  
+    
+}
+
+.intro2 {
+    font-size: 3rem;
+    color: black;
+    padding: 1rem 0rem 0 35rem;
+}
+
+.img1 {
+    position: absolute;
+    border: 5px solid white;
+    top: 7rem;
+    left: 6rem;
+    height: 400px;
+    width: 300px;
+    filter: sepia(60%);
+    float: left;
+    
+}
+
+.img2 {
+    width: 400px;
+    border: #B7C4CF solid 5px;
+   
+   
+}
+
+p {
+    border: 20px solid #B7C4CF;
+    padding: 20px;
+    text-align: center;
+   
+}
+
+.section1 {
+    display: flex;
+    margin: 5rem 0;
+    background: #EEE3CB;
+    width: 50rem;
+    float: left;
+}
+
+.section2 {
+    display: flex;
+    margin: none;
+    background: #EEE3CB;
+    width: 50rem;
+    float: right;
+}
+
+.video {
+    width: 400px;
+    border: #B7C4CF solid 5px;
+    height: 600px;
+    
+    
+}
